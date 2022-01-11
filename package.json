@@ -1,0 +1,20 @@
+{
+  "name": "my-website-name",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "scripts": {
+    "start": "npx cromwell start"
+  },
+  "dependencies": {
+    "@cromwell/cms": "2.0.23",
+    "@cromwell/plugin-main-menu": "1.0.31",
+    "@cromwell/plugin-newsletter": "1.0.22",
+    "@cromwell/plugin-product-filter": "1.0.32",
+    "@cromwell/plugin-product-showcase": "1.0.22",
+    "@cromwell/plugin-stripe": "1.0.11",
+    "@cromwell/theme-blog": "1.2.25",
+    "@cromwell/theme-store": "1.2.25"
+  }
+}
